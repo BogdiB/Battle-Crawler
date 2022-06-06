@@ -1,0 +1,5 @@
+C:\Users\Bogdan\source\repos\FINALLY I HOPE\FINALLY I HOPE\x64\Debug\FINALLY I HOPE.vcxproj.AssemblyReference.cache
+C:\Users\Bogdan\source\repos\FINALLY I HOPE\FINALLY I HOPE\x64\Debug\FINALLY I HOPE.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Bogdan\source\repos\FINALLY I HOPE\FINALLY I HOPE\x64\Debug\FINALLYIHOPE.MyForm.resources
+C:\Users\Bogdan\source\repos\FINALLY I HOPE\FINALLY I HOPE\x64\Debug\FINALLY I HOPE.vcxproj.GenerateResource.cache
+C:\Users\Bogdan\source\repos\FINALLY I HOPE\FINALLY I HOPE\x64\Debug\FINALLYIHOPE.MyForm.aa.resources
